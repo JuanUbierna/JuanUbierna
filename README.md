@@ -16,6 +16,13 @@ I'm a data scientist and Mathematics Engineer building projects that inspire me 
 
 > Extremely Passionate about uncovering intelligence through mathematics. My favorite area of exploration is AI, machine learning, and deep learning by transforming abstract theory into real-world computational solutions.
 
+## 📂 Projects
+
+Here are some of the projects I've developed, combining data science, optimization, AI, and applied mathematics:
+
+### [Secure Digital Signature System]()
+Built a cryptographic digital signature platform using Elliptic Curve Cryptography (ECC), Python APIs, and Power Automate for secure document workflows.
+
 
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
