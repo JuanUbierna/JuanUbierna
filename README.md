@@ -18,7 +18,7 @@ I'm a data scientist and Mathematics Engineer building projects that inspire me 
 
 ## 📂 Projects
 
-Here are some of the projects I've developed, combining data science, optimization, AI, and applied mathematics:
+Here are some of the projects I've developed, combining data science, optimization, AI, and cryptography-cybersecurity. Basically, applied mathematics:
 
 ### [Secure Digital Signature System]()
 Built a cryptographic digital signature platform using Elliptic Curve Cryptography (ECC), Python APIs, and Power Automate for secure document workflows.
