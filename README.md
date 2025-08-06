@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🧮 Mathematical Engineer (Data Science/AI/Optimization/Cybersecurity)
+
+I'm a data scientist and Mathematics Engineer building projects that inspire me of the data world. Every solution I develop starts from the ground up from modeling and design to solving real-world problems with mathematics, code, and strategy. Whether it's uncovering patterns in datay, optimizing supply chains, or developing secure software, I always try to approach each challenge with precision and creativity.
+
 
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
