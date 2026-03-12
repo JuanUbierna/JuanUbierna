@@ -23,7 +23,7 @@ Here are some of the areas of projects I've developed, combining data science, o
 ### [Data Science]()
 Built a cryptographic digital signature platform using Elliptic Curve Cryptography (ECC), Python APIs, and Power Automate for secure document workflows.
   - #### [Business Intelligence & Analytics]()
-Business Intelligence
+    Business Intelligence projects
 
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
