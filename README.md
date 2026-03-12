@@ -21,19 +21,54 @@ I'm a data scientist and Mathematics Engineer building projects that inspire me 
 Here are some of the areas of projects I've developed, combining data science, optimization, AI, cryptography-cybersecurity and more. Basically, applied mathematics:
 
 ### [Data Science]()
-Built a cryptographic digital signature platform using Elliptic Curve Cryptography (ECC), Python APIs, and Power Automate for secure document workflows.
+This section contains projects focused on extracting insights and predictive power from data using modern machine learning techniques. It includes model development, feature engineering, evaluation, and deployment pipelines for solving real-world prediction and classification problems.
   - #### [Business Intelligence & Analytics]()
-    Business Intelligence projects
   - #### [Machine Learning]()
-    Machine learning
   - #### [Deep Learning]()
-    Deep Learning
   - #### [MLOps]()
-    MLOps
-    
-### [Artificial Intelligence Systems]()
-Built projects of AI
 
+### [Artificial Intelligence Systems]()
+This area explores intelligent systems capable of autonomous decision-making and learning. Projects include reinforcement learning, AI agents, and applications that integrate machine learning models into larger automated systems.
+  - #### [AI Agents]()
+  - #### [Reinforcement Learning]()
+  - #### [Natural Language Processing]()
+  - #### [Computer Vision]()
+  - #### [Generative AI & LLM]
+
+### [Optimization & Operations Research]()
+Projects here focus on mathematical optimization and decision-making under constraints. Applications include routing problems, supply chain optimization, scheduling, and combinatorial optimization using exact and heuristic methods.
+  - #### [Mathematical Optimization]()
+  - #### [Simulation]()
+  - #### [Stochastic Processes & Probability]
+  - #### [Network Analysis & Graph Theory]
+
+### [Quantitative Finance]()
+Projects in this section apply mathematical modeling, statistics, and computational techniques to financial markets. Topics include portfolio optimization, risk modeling, algorithmic trading strategies, and derivatives pricing.
+  - #### [Portafolio Optimization]()
+  - #### [Risk Management]()
+  - #### [Algorithmic Trading and ML in Finance]
+  - #### [Derivatives & Options]
+
+### [Data Engineering]()
+This section focuses on building reliable data infrastructure and pipelines that support analytics and machine learning systems. Projects include ETL pipelines, data ingestion systems, and scalable architectures for managing large datasets.
+
+### [Mathematical Modelling]()
+Projects in this section focus on building mathematical representations of complex systems. These include stochastic processes, dynamical systems, and simulation-based models used to analyze real-world phenomena.
+
+### [Software Engineering]()
+This section contains projects that emphasize robust software design, system architecture, and production-ready development practices. Topics include API development, modular system design, testing frameworks, and scalable backend systems.
+
+### [Cybersecurity & Cryptography]()
+This area focuses on the design and analysis of secure systems and cryptographic protocols. Projects include digital signatures, secure authentication systems, encryption methods, and implementations of modern cryptographic algorithms.
+
+### [Time Series & Forecasting]()
+This section focuses on modeling and forecasting data that evolves over time. Projects include classical statistical models, modern machine learning approaches, and applications in finance, demand forecasting, and economic indicators.
+
+### [Statistical Inference]()
+Projects in this section focus on drawing conclusions from data under uncertainty. Topics include hypothesis testing, confidence intervals, A/B testing frameworks, Bayesian inference, and resampling methods such as bootstrap techniques.
+
+### [Topological Data Analysis]()
+This section explores advanced techniques for analyzing the geometric and topological structure of complex datasets. Projects include persistent homology, Mapper analysis, and topological feature extraction for high-dimensional data.
 
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
