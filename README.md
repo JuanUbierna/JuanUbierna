@@ -20,9 +20,10 @@ I'm a data scientist and Mathematics Engineer building projects that inspire me 
 
 Here are some of the areas of projects I've developed, combining data science, optimization, AI, cryptography-cybersecurity and more. Basically, applied mathematics:
 
-### [Secure Digital Signature System]()
+### [Data Science]()
 Built a cryptographic digital signature platform using Elliptic Curve Cryptography (ECC), Python APIs, and Power Automate for secure document workflows.
-
+#### [Business Intelligence & Analytics]()
+Business Intelligence
 
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
