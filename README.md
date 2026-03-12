@@ -14,7 +14,7 @@ I'm a data scientist and Mathematics Engineer building projects that inspire me 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-> Enthusiastic about uncovering intelligence through mathematics. My favorite area of exploration is AI, machine learning, and deep learning by transforming abstract theory into real-world computational solutions.
+> Enthusiast about uncovering intelligence through mathematics. My favorite area of exploration is AI, machine learning, and deep learning by transforming abstract theory into real-world computational solutions.
 
 ## 📂 Projects
 
