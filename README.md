@@ -92,6 +92,10 @@ This section explores advanced techniques for analyzing the geometric and topolo
   - #### [ML with TDA]()
   - #### [Mapper Algorithm]()
 
+## Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanUbierna)](https://github.com/JuanUbierna/github-readme-stats)
+
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
