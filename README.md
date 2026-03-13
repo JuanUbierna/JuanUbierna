@@ -94,8 +94,8 @@ This section explores advanced techniques for analyzing the geometric and topolo
 
 ## Statistics
 
-<img alt="my stats" align="left" width = "47%" src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanUbierna&show_icons=true&theme=dark)/>
-<img alt="my stats" align="left" width = "49%" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanUbierna&show_icons=true&theme=dark)](https://github.com/JuanUbierna/github-readme-stats)/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanUbierna&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanUbierna&show_icons=true&theme=dark)](https://github.com/JuanUbierna/github-readme-stats)
 
 <!--
 **JuanUbierna/JuanUbierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
