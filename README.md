@@ -22,7 +22,7 @@ Here are some of the areas of projects I've developed, combining data science, o
 
 ### [Data Science]()
 This section contains projects focused on extracting insights and predictive power from data using modern machine learning techniques. It includes model development, feature engineering, evaluation, and deployment pipelines for solving real-world prediction and classification problems.
-  - #### [Business Intelligence & Analytics]()
+  - #### [Business Intelligence & Analytics](https://github.com/JuanUbierna/DS_BI)
   - #### [Machine Learning]()
   - #### [Deep Learning]()
   - #### [MLOps]()
