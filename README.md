@@ -1,6 +1,6 @@
 ## 🧮  Mathematical Engineer (Data Science/AI/Optimization/Cybersecurity)
 
-I'm a data scientist and Mathematics Engineer building projects that inspire me of the data world. Every solution I develop starts from the ground up from modeling and design to solving real-world problems with mathematics, code, and strategy. Whether it's uncovering patterns in datay, optimizing supply chains, or developing secure software, I always try to approach each challenge with precision and creativity.
+I'm a Data scientist and Mathematics Engineer building projects that inspire me of the data world. Every solution I develop starts from the ground up from modeling and design to solving real-world problems with mathematics, code, and strategy. Whether it's uncovering patterns in datay, optimizing supply chains, or developing secure software, I always try to approach each challenge with precision and creativity.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
